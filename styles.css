@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f7f7f7;
+    background-color: #000000;
 }
 
 .container {
@@ -35,7 +35,7 @@ h1 {
 .petal {
     width: 45px;
     height: 90px;
-    background-color: #000000;
+    background-color: #FFD700;
     border-radius: 50%;
     position: absolute;
     top: 50%;
