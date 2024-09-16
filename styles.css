@@ -13,7 +13,7 @@ body {
 
 h1 {
     font-size: 36px;
-    color: #FFFFFF;
+    color: #000000;
     margin-top: 20px;
     z-index: 1;
 }
@@ -34,7 +34,7 @@ h1 {
 .petal {
     width: 45px;
     height: 90px;
-    background-color: #00000;
+    background-color: #ff6699;
     border-radius: 50%;
     position: absolute;
     top: 50%;
