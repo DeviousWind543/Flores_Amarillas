@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-     background: linear-gradient(to bottom, #fefcea, #36cff1);
+     background: linear-gradient(to bottom, #f6e44289, #f16e36a7);
 }
 .container {
     text-align: center;
@@ -34,7 +34,7 @@ h1 {
 .petal {
     width: 45px;
     height: 90px;
-    background-color: #ccff0077;
+    background-color: #ccff008d;
     border-radius: 50%;
     position: absolute;
     top: 50%;
